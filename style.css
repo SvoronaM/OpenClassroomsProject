@@ -140,7 +140,7 @@ article
 	background-color: transparent ;
 	position: absolute;
 	right: 0%;
-	width: 35%;
+	width: auto;
 }
 .text
 {
@@ -162,6 +162,7 @@ main
 	justify-content: left;
 	margin-right: 40%;
 	text-align: justify;
+	width: auto;
 }
 article
 {
