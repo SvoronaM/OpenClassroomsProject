@@ -163,8 +163,9 @@ main
 	margin-right: 50%;
 	text-align: justify;
 }
-#recommandations
+article
 {
+	display: flex;
 	flex-direction: column;
 }
 h1
